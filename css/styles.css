@@ -977,7 +977,7 @@
             }
         }
 
-        @media (max-width:600px) {
+        @media (max-width:800px) {
             .header__burger-btn {
                 display: block;
             }
@@ -1028,6 +1028,7 @@
         @media (max-width: 506px) {
             .red__box {
                 width: 100%;
+                
             }
         }
 
@@ -1190,7 +1191,7 @@
             }
         }
 
-        @media (max-width: 350px) {
+        @media (max-width: 800px) {
             .header__burger-btn {
                 position: relative;
                 right: 138px;
@@ -1247,7 +1248,7 @@
             .contacts-heading {
                 font-size: 24px;
             }
-markmember
+
             .footer__media {
                 padding-left: 68px;
             }

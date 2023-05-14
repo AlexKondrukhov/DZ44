@@ -165,7 +165,9 @@
     bottom: 12px;
     width: 616px;
     margin-bottom: 20px;
-    margin-left: 50px;
+    margin-left: 40px;
+   
+
 }
 
 .intro__heading {
@@ -186,6 +188,7 @@
     max-width: 545px;
     margin-bottom: 50px;
     padding-top: 36px
+    
 }
 
 .action-button {
@@ -252,7 +255,7 @@
 .red__box {
     max-width: 100%;
     width: 554px;
-    height: 360px;
+    height: 300px;
 }
 
 .section {
@@ -581,11 +584,13 @@
     grid-column: 2 / 3;
     grid-row: 2 / 3;
     cursor: pointer;
+    
 }
 
 .member {
     position: relative;
     margin-top: 18px;
+    max-width: 100%;
 }
 
 .member:not(:last-child) {
@@ -612,6 +617,7 @@
 
 .member__photo {
     height: 218px;
+    max-width: 100%;
 }
 
 .member:hover>.member__name {
@@ -1005,10 +1011,13 @@
         @media (max-width: 593px) {
             .intro__heading {
                 font-size: 40px;
+                max-width: 100%;
+
             }
 
             .intro__text {
                 font-size: 15px;
+                max-width: 100%;
             }
 
             .action-button {
@@ -1238,7 +1247,7 @@
             .contacts-heading {
                 font-size: 24px;
             }
-
+markmember
             .footer__media {
                 padding-left: 68px;
             }

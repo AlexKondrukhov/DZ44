@@ -102,7 +102,7 @@
     color: #F6F2F2;
 }
 
-/* Бургер - меню */
+/* burger-menu */
 
 .header__burger-btn {
     display: none;
@@ -165,7 +165,7 @@
     bottom: 12px;
     width: 616px;
     margin-bottom: 20px;
-    margin-left: 40px;
+    margin-left: 45px;
    
 
 }
